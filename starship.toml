@@ -12,3 +12,6 @@ success_symbol = "[🤔 🤪 🚀 👉  ▶](bold green)" # The "success_symbol"
 # Disable the package module, hiding it from the prompt completely
 [package]
 disabled = true
+
+[buf]
+symbol = "🦬 "
