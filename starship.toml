@@ -15,3 +15,16 @@ disabled = true
 
 [buf]
 symbol = "🦬 "
+
+[time]
+disabled = false
+format = '[\[$time\]]($style) '
+
+[status]
+style = "bg:blue"
+symbol = "🔴"
+success_symbol = "🟢"
+format = '[<$symbol >]($style) '
+pipestatus = true
+map_symbol = true
+disabled = true
