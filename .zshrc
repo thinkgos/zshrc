@@ -119,3 +119,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 eval "$(starship init zsh)"
+echo 'eval "$(atuin init zsh)"' >> ~/.zshrc
+eval "$(atuin init zsh)"
+eval "$(atuin init zsh)"
+eval "$(atuin init zsh)"
+eval "$(atuin init zsh)"
+eval "$(atuin init zsh)"
